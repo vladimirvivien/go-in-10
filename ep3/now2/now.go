@@ -1,10 +1,10 @@
 package main
 
-import(
-   "fmt"
-   "vladimirvivien/time/lib"
+import (
+	"fmt"
+	"vladimirvivien/time/lib"
 )
 
 func main() {
-    fmt.Println(lib.ShortTime())
+	fmt.Println(lib.ShortTime())
 }
